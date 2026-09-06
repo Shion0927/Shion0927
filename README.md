@@ -3,7 +3,7 @@
   <b>日本語</b> &nbsp;|&nbsp; <a href="./README.en.md">English</a>
 </p>
 
-<h1 align="center">Hi there, I'm Shion Uemura 👋</h1>
+<h1 align="center">こんにちは、Shion Uemura です 👋</h1>
 
 <p align="center">
   モバイルアプリと Web アプリを、Swift / Flutter / JavaScript / Python で作っています。<br>
