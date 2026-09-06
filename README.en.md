@@ -1,16 +1,16 @@
 <!-- 言語切替 / Language switch -->
 <p align="right">
-  <b>🇯🇵 日本語</b> &nbsp;|&nbsp; <a href="./README.en.md">🇺🇸 English</a>
+  <a href="./README.md">🇯🇵 日本語</a> &nbsp;|&nbsp; <b>🇺🇸 English</b>
 </p>
 
 <h1 align="center">Hi there, I'm Shion Uemura 👋</h1>
 
 <p align="center">
-  モバイルアプリと Web アプリを、Swift / Flutter / JavaScript / Python で作っています。<br>
-  「毎日使うのが面倒なもの」を、少しだけ楽にするツールづくりが好きです。
+  I build mobile and web apps with Swift, Flutter, JavaScript, and Python.<br>
+  I like making small tools that take a little friction out of everyday life.
 </p>
 
-<!-- SNS・外部リンクを置きたくなったらここに追加
+<!-- Add social links here when you want them
 <p align="center">
   <a href="https://x.com/xxxxx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://zenn.dev/xxxxx"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"></a>
@@ -21,10 +21,10 @@
 
 ## 🧑‍💻 About Me
 
-- 📱 iOS（Swift）と Flutter でのアプリ開発を中心に、Web フロント（JavaScript）や Python も触っています
-- 🔔 「一覧を眺める」より「必要なときだけ通知で知らせる」ような、生活に寄り添う UX に興味があります
-- 🛠️ 一度作ったものを納得いくまで作り直すタイプです
-- 🌱 いま取り組んでいること: **WeatherCue** の改善と **StudyPalette** の再構築
+- 📱 Mainly iOS (Swift) and Flutter app development, with some web front-end (JavaScript) and Python on the side
+- 🔔 Interested in UX that fits into daily life — "tell me only when it matters" rather than "show me everything"
+- 🛠️ The kind of person who rebuilds a project from scratch until it feels right
+- 🌱 Currently working on: improving **WeatherCue** and rebuilding **StudyPalette**
 
 ## 🛠️ Tech Stack
 
@@ -43,12 +43,12 @@
 
 ## 🚀 Projects
 
-| プロジェクト | 概要 | 技術 |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**WeatherCue**](https://github.com/Shion0927/WeatherCue) | 通知中心の天気アプリ | Swift / iOS |
-| [**StudyPalette**](https://github.com/Shion0927/StudyPalette) | 学習記録アプリ | Flutter / Dart |
-| [**CalendarApp**](https://github.com/Shion0927/CalendarApp) | カレンダーアプリ | Python |
-| [**mysearch_proj**](https://github.com/Shion0927/mysearch_proj) | 検索アプリ | JavaScript |
+| [**WeatherCue**](https://github.com/Shion0927/WeatherCue) | Notification-first weather app | Swift / iOS |
+| [**StudyPalette**](https://github.com/Shion0927/StudyPalette) | Study-log app | Flutter / Dart |
+| [**CalendarApp**](https://github.com/Shion0927/CalendarApp) | Calendar app | Python |
+| [**mysearch_proj**](https://github.com/Shion0927/mysearch_proj) | Search app | JavaScript |
 
 ## 📊 GitHub Stats
 
@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shion0927&theme=dark&hide_border=true&locale=ja" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=Shion0927&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
