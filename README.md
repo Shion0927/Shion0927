@@ -53,8 +53,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shion0927&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shion0927&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details">
+</p>
+<p align="center">
+  <img height="165" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats">
+  <img height="165" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language">
 </p>
 
 <p align="center">
