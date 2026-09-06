@@ -1,6 +1,6 @@
 <!-- 言語切替 / Language switch -->
 <p align="right">
-  <b>🇯🇵 日本語</b> &nbsp;|&nbsp; <a href="./README.en.md">🇺🇸 English</a>
+  <b>日本語</b> &nbsp;|&nbsp; <a href="./README.en.md">English</a>
 </p>
 
 <h1 align="center">Hi there, I'm Shion Uemura 👋</h1>
@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shion0927&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shion0927&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shion0927&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shion0927&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages">
 </p>
 
 <p align="center">
